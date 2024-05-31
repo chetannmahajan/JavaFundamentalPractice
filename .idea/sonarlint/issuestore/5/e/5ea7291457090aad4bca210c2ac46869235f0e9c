@@ -1,0 +1,39 @@
+
+o
+java:S2293"YReplace the type specification in this constructor call with the diamond operator ("<>").(™¦ËÍ
+n
+java:S2293 "YReplace the type specification in this constructor call with the diamond operator ("<>").(Ø­Â
+t
+java:S2293)"YReplace the type specification in this constructor call with the diamond operator ("<>").(ŸÖïµüÿÿÿÿ
+t
+java:S2293*"YReplace the type specification in this constructor call with the diamond operator ("<>").(ÚÇ›æıÿÿÿÿ
+t	java:S120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(’©¼øúÿÿÿÿ
+Q	java:S125
+"<This block of commented-out lines of code should be removed.(‰Êà’
+X	java:S125"<This block of commented-out lines of code should be removed.(”›îî8ä‰ëïó1
+R
+java:S1854"7Remove this useless assignment to local variable "emp".(¿Ü°ôşÿÿÿÿ
+M
+java:S1854"7Remove this useless assignment to local variable "emp".(æÿü
+>
+java:S1481"(Remove this unused "emp" local variable.(æÿü
+M
+java:S1854"7Remove this useless assignment to local variable "emp".(óû 
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü£
+j
+java:S1215"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+N	java:S106"9Replace this use of System.out or System.err by a logger.(ü£
+M
+java:S1854""7Remove this useless assignment to local variable "emp".(óû 
+M	java:S106!"9Replace this use of System.out or System.err by a logger.(…ë‘
+j
+java:S1215#"TDon't try to be smarter than the JVM, remove this call to run the garbage collector.(Ì°¬“
+M	java:S106$"9Replace this use of System.out or System.err by a logger.(…ë‘
+S	java:S106+"9Replace this use of System.out or System.err by a logger.(ãä¦Ğøÿÿÿÿ
+U	java:S106,"9Replace this use of System.out or System.err by a logger.(¦‰±¥8‰¦êïó1
+P
+java:S1144"5Remove this unused private "strongReferences" method.(ŞÏé‘ÿÿÿÿÿ
+H
+java:S1144"2Remove this unused private "weakReference" method.(¿ãŞ
+W
+java:S1144'"5Remove this unused private "phantomReference" method.(Ã­¶šùÿÿÿÿ8í‰ëïó1
